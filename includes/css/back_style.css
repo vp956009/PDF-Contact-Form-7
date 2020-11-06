@@ -1,0 +1,33 @@
+table.pdf_main {
+    width: 100%;
+    display: inline-block;
+    float: left;
+}
+table.pdf_main tbody {
+    width: 100%;
+    display: inline-block;
+    float: left;
+}
+table.pdf_main tr {
+    margin: 20px 0px;
+    display: block;
+}
+table.pdf_main tr th {
+    width: 30%;
+    display: inline-block;
+    text-align: left;
+}
+table.pdf_main tr td {
+    width: 40%;
+    display: inline-block;
+}
+table.pdf_main input {
+    border: 1px solid #a5a2a2;
+}
+.download_pdf img {
+    width: 29px;
+    text-align: center;
+}
+.download_pdf a {
+    display: inline-block;
+}

@@ -1,0 +1,12 @@
+a.cf7pdf_button {
+    background-color: #ccc;
+    padding: 10px;
+    text-decoration: none !important;
+    border: 1px solid #c1bdbd;
+    box-shadow: none !important;
+    border-radius: 5px;
+    color: #000;
+}
+a.cf7pdf_button:hover {
+    text-decoration: none;
+}
